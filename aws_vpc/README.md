@@ -12,7 +12,9 @@ Export enviroment variables with AWS credentials:
 
 Edit input.auto.tfvars file and set variables:
 > aws_region="eu-west-1"
+
 > aws_vpc_name = "example-vpc"
+
 > aws_vpc_cidr = "172.16.0.0/12" # Default 10.0.0.0/16
 
 Run terraform:
