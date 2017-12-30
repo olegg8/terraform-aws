@@ -1,4 +1,4 @@
-###aws_ecs_cluster
+#aws_ecs_cluster
 
 *Simple terraform state to create aws auto scaling group with application load balancer and attach to elastic container services. (You can also create asg without ecs cluster)*
 
