@@ -24,7 +24,7 @@ Run terraform:
 terraform init
 terraform plan
 terraform apply
-ssh
+```
 
 To destroy run:
 ```sh
